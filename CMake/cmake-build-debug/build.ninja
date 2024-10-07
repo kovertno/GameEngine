@@ -56,6 +56,13 @@ build CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o: CXX_
   OBJECT_DIR = CMakeFiles/Engine.dir
   OBJECT_FILE_DIR = CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src
 
+build CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o: CXX_COMPILER__Engine_unscanned_Debug /Users/konradkurzak/GameEngine2D/src/Logger.cpp || cmake_object_order_depends_target_Engine
+  DEP_FILE = CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  INCLUDES = -I/opt/homebrew/Cellar/sdl2/2.30.7/include -I/opt/homebrew/Cellar/sdl2_ttf/2.22.0/include -I/opt/homebrew/Cellar/sdl2_image/2.8.2_2/include -I/opt/homebrew/Cellar/sdl2_mixer/2.8.0/include -I/opt/homebrew/Cellar/lua/5.4.7/include/lua -I/opt/homebrew/Cellar/glm/1.0.1/include -I/opt/homebrew/cellar/sol2/include -I/opt/homebrew/Cellar -isystem /opt/homebrew/Cellar/sdl2/2.30.7/include/SDL2
+  OBJECT_DIR = CMakeFiles/Engine.dir
+  OBJECT_FILE_DIR = CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src
+
 build CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o: CXX_COMPILER__Engine_unscanned_Debug /Users/konradkurzak/GameEngine2D/src/main.cpp || cmake_object_order_depends_target_Engine
   DEP_FILE = CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o.d
   FLAGS = -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
@@ -71,7 +78,7 @@ build CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o: CXX_
 #############################################
 # Link the executable Engine
 
-build Engine: CXX_EXECUTABLE_LINKER__Engine_Debug CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o | /opt/homebrew/Cellar/sdl2/2.30.7/lib/libSDL2.dylib /opt/homebrew/Cellar/sdl2_ttf/2.22.0/lib/libSDL2_ttf.dylib /opt/homebrew/Cellar/sdl2_mixer/2.8.0/lib/libSDL2_mixer.dylib /opt/homebrew/Cellar/sdl2_image/2.8.2_2/lib/libSDL2_image.dylib /opt/homebrew/lib/liblua5.4.dylib /opt/homebrew/Cellar/glm/1.0.1/lib/libglm.dylib
+build Engine: CXX_EXECUTABLE_LINKER__Engine_Debug CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o | /opt/homebrew/Cellar/sdl2/2.30.7/lib/libSDL2.dylib /opt/homebrew/Cellar/sdl2_ttf/2.22.0/lib/libSDL2_ttf.dylib /opt/homebrew/Cellar/sdl2_mixer/2.8.0/lib/libSDL2_mixer.dylib /opt/homebrew/Cellar/sdl2_image/2.8.2_2/lib/libSDL2_image.dylib /opt/homebrew/lib/liblua5.4.dylib /opt/homebrew/Cellar/glm/1.0.1/lib/libglm.dylib
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   LINK_LIBRARIES = -Wl,-rpath,/Users/konradkurzak/GameEngine2D/CMake/../libs -Wl,-rpath,/opt/homebrew/Cellar/sdl2/2.30.7/lib  /opt/homebrew/Cellar/sdl2/2.30.7/lib/libSDL2.dylib  /opt/homebrew/Cellar/sdl2_ttf/2.22.0/lib/libSDL2_ttf.dylib  /opt/homebrew/Cellar/sdl2_mixer/2.8.0/lib/libSDL2_mixer.dylib  /opt/homebrew/Cellar/sdl2_image/2.8.2_2/lib/libSDL2_image.dylib  /opt/homebrew/lib/liblua5.4.dylib  /opt/homebrew/Cellar/glm/1.0.1/lib/libglm.dylib  -ldl
   LINK_PATH = -L/Users/konradkurzak/GameEngine2D/CMake/../libs   -L/opt/homebrew/Cellar/sdl2/2.30.7/lib

@@ -32,9 +32,7 @@ find_package(Lua REQUIRED)
 file(GLOB_RECURSE SRC_FILES CONFIGURE_DEPENDS ${CMAKE_CURRENT_SOURCE_DIR}/../src/*.cpp)
 
 
-add_executable(Engine ${SRC_FILES}
-        ../src/Game.cpp
-        ../src/Game.h)
+add_executable(Engine ${SRC_FILES})
 
 
 target_link_directories(Engine PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/../libs)

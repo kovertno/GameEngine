@@ -17,7 +17,7 @@ Game::Game() {
 
 
 Game::~Game() {
-    Logger::Log("Game destructor called");
+    Logger::Err("Game destructor called");
 }
 
 
@@ -43,13 +43,13 @@ void Game::Initialize() {
     winHeight,
     SDL_WINDOW_RESIZABLE);
     if(!window) {
-        std::cerr << "Error creating SDL window" << std::endl;
+        Logger::Err("Error creating SDL window");
         return;
     }
 
     renderer = SDL_CreateRenderer(window, -1, 0);
     if(!renderer) {
-        std::cerr << "Error creating SDL renderer" << std::endl;
+        Logger::Err("Error creating SDL renderer");
         return;
     }
 

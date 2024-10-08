@@ -1,12 +1,13 @@
 //
 // Created by Konrad Kurzak on 05/10/2024.
 //
+#ifndef GAME_H
+#define GAME_H
+
 
 #include <SDL2/SDL.h>
 #include <glm/glm.hpp>
 
-#ifndef GAME_H
-#define GAME_H
 
 const int FPS = 60;
 const int MILLISECS_PER_FRAME = 1000/FPS;

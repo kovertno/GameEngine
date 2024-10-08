@@ -39,13 +39,13 @@ target_link_directories(Engine PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/../libs)
 
 
 include_directories(${SDL2_INCLUDE_DIRS}
-                    ${SDL2_ttf_INCLUDE_DIRS}
-                    ${SDL2_mixer_INCLUDE_DIRS}
-                    ${SDL2_image_INCLUDE_DIRS}
-                    ${LUA_INCLUDE_DIRS}
-                    ${GLM_INCLUDE_DIRS}
-                    ${SOL2_INCLUDE_DIRS}
-                    ${IMGUI_INCLUDE_DIRS})
+        ${SDL2_ttf_INCLUDE_DIRS}
+        ${SDL2_mixer_INCLUDE_DIRS}
+        ${SDL2_image_INCLUDE_DIRS}
+        ${LUA_INCLUDE_DIRS}
+        ${GLM_INCLUDE_DIRS}
+        ${SOL2_INCLUDE_DIRS}
+        ${IMGUI_INCLUDE_DIRS})
 
 
 message(STATUS "SDL2_INCLUDE_DIRS: ${SDL2_INCLUDE_DIRS}")
@@ -55,9 +55,9 @@ message(STATUS "SDL2_image_INCLUDE_DIRS: ${SDL2_image_INCLUDE_DIRS}")
 
 
 target_link_libraries(Engine ${SDL2_LIBRARIES}
-                             ${SDL2_ttf_LIBRARIES}
-                             ${SDL2_mixer_LIBRARIES}
-                             ${SDL2_image_LIBRARIES}
-                             ${LUA_LIBRARIES}
-                             ${GLM_LIBRARIES}
-                             dl)
+        ${SDL2_ttf_LIBRARIES}
+        ${SDL2_mixer_LIBRARIES}
+        ${SDL2_image_LIBRARIES}
+        ${LUA_LIBRARIES}
+        ${GLM_LIBRARIES}
+        dl)

@@ -1,7 +1,12 @@
 # ninja log v6
-511	613	1728317896969488300	Engine	a2dc331100b7329e
-11	511	1728317896469744336	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o	e48d3e8378662a31
-20	648	1728299148290312086	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o	72ce14c3ff3763fb
-10	56	1728318185695092459	build.ninja	b8be0d27e690f176
-1	7	1728317975925765230	/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	66a1d1f9f6d639a0
-9	73	1728317874734121147	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o	a0042ca54a2e0ba
+10	298	1728390024764007167	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o	a0042ca54a2e0ba
+0	8	1728390026711269420	/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	66a1d1f9f6d639a0
+10	56	1728390931903642969	build.ninja	b8be0d27e690f176
+23	606	1728320146942917620	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o	72ce14c3ff3763fb
+14	603	1728389823277454360	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o	e48d3e8378662a31
+298	327	1728390025052004509	Engine	a2dc331100b7329e
+0	10	1728390937227013787	/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	66a1d1f9f6d639a0
+10	316	1728390937237093823	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o	a0042ca54a2e0ba
+11	410	1728390937237209198	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o	72ce14c3ff3763fb
+10	419	1728390937236895533	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o	e48d3e8378662a31
+419	449	1728390937645923941	Engine	a2dc331100b7329e

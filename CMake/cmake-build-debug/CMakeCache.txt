@@ -234,6 +234,15 @@ LUA_INCLUDE_DIR:PATH=/opt/homebrew/include/lua
 //Path to a library.
 LUA_LIBRARY:FILEPATH=/opt/homebrew/lib/liblua5.4.dylib
 
+//Value Computed by CMake
+Project_BINARY_DIR:STATIC=/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug
+
+//Value Computed by CMake
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=/Users/konradkurzak/GameEngine2D/CMake
+
 //The directory containing a CMake configuration file for SDL2.
 SDL2_DIR:PATH=/opt/homebrew/lib/cmake/SDL2
 

@@ -17,7 +17,7 @@ Game::Game() {
 
 
 Game::~Game() {
-    Logger::Err("Game destructor called");
+    Logger::Log("Game destructor called");
 }
 
 

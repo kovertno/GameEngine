@@ -5,8 +5,8 @@ cmake_policy(SET CMP0009 NEW)
 # SRC_FILES at CMakeLists.txt:32 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/konradkurzak/GameEngine2D/CMake/../src/*.cpp")
 set(OLD_GLOB
-  "/Users/konradkurzak/GameEngine2D/CMake/../src/Game.cpp"
-  "/Users/konradkurzak/GameEngine2D/CMake/../src/Logger.cpp"
+  "/Users/konradkurzak/GameEngine2D/CMake/../src/Game/Game.cpp"
+  "/Users/konradkurzak/GameEngine2D/CMake/../src/Logger/Logger.cpp"
   "/Users/konradkurzak/GameEngine2D/CMake/../src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

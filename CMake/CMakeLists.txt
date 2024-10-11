@@ -60,4 +60,4 @@ target_link_libraries(Engine ${SDL2_LIBRARIES}
         ${SDL2_image_LIBRARIES}
         ${LUA_LIBRARIES}
         ${GLM_LIBRARIES}
-        dl )
+        dl)

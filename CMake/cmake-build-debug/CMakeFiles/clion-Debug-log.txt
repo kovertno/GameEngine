@@ -1,8 +1,8 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/konradkurzak/GameEngine2D/CMake -B /Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/konradkurzak/DIRS/GameEngine2D/CMake -B /Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug
 -- SDL2_INCLUDE_DIRS: /opt/homebrew/Cellar/sdl2/2.30.7/include;/opt/homebrew/Cellar/sdl2/2.30.7/include/SDL2
 -- SDL2_ttf_INCLUDE_DIRS: /opt/homebrew/Cellar/sdl2_ttf/2.22.0/include
 -- SDL2_mixer_INCLUDE_DIRS: /opt/homebrew/Cellar/sdl2_image/2.8.2_2/include
 -- SDL2_image_INCLUDE_DIRS: /opt/homebrew/Cellar/sdl2_mixer/2.8.0/include
--- Configuring done (0.0s)
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug
+-- Build files have been written to: /Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug

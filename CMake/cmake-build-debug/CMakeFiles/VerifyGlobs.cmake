@@ -3,13 +3,14 @@
 cmake_policy(SET CMP0009 NEW)
 
 # SRC_FILES at CMakeLists.txt:32 (file)
-file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/konradkurzak/GameEngine2D/CMake/../src/*.cpp")
+file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/konradkurzak/DIRS/GameEngine2D/CMake/../src/*.cpp")
 set(OLD_GLOB
-  "/Users/konradkurzak/GameEngine2D/CMake/../src/Game/Game.cpp"
-  "/Users/konradkurzak/GameEngine2D/CMake/../src/Logger/Logger.cpp"
-  "/Users/konradkurzak/GameEngine2D/CMake/../src/main.cpp"
+  "/Users/konradkurzak/DIRS/GameEngine2D/CMake/../src/ECS/ECS.cpp"
+  "/Users/konradkurzak/DIRS/GameEngine2D/CMake/../src/Game/Game.cpp"
+  "/Users/konradkurzak/DIRS/GameEngine2D/CMake/../src/Logger/Logger.cpp"
+  "/Users/konradkurzak/DIRS/GameEngine2D/CMake/../src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "/Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs")
 endif()

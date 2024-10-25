@@ -1,4 +1,4 @@
-# Install script for directory: /Users/konradkurzak/GameEngine2D/CMake
+# Install script for directory: /Users/konradkurzak/DIRS/GameEngine2D/CMake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,11 +1,14 @@
 # ninja log v6
-14	387	1728491082087067284	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger.cpp.o	a0042ca54a2e0ba
-10	23	1728591443646967754	/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	66a1d1f9f6d639a0
-10	56	1728591523285791844	build.ninja	b8be0d27e690f176
-10	374	1728492594790065225	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/main.cpp.o	72ce14c3ff3763fb
-24	672	1728490808921894156	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game.cpp.o	e48d3e8378662a31
-374	400	1728492595154720797	Engine	a895d662db1a989d
-10	371	1728492496353641383	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Logger/Logger.cpp.o	66ad2a724b8107f4
-9	385	1728492536274380709	CMakeFiles/Engine.dir/Users/konradkurzak/GameEngine2D/src/Game/Game.cpp.o	a3f41983887e99a0
-1	10	1728591599279887460	/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	66a1d1f9f6d639a0
-1	8	1728591643614370460	/Users/konradkurzak/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	66a1d1f9f6d639a0
+1	8	1729775375365549633	/Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	92a7c1922cda5484
+6	29	1729775370643295644	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/ECS/ECS.cpp.o	90c352e3291d06c
+513	554	1729775371149989867	Engine	d281fdcfde9a20bc
+6	429	1729775370643565812	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/Logger/Logger.cpp.o	985952977a948825
+6	495	1729775370643662687	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/main.cpp.o	66c1283711d0708f
+11	60	1729776896190701289	build.ninja	cfb692ab482344c4
+6	512	1729775370643443728	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/Game/Game.cpp.o	916a80b5f5c4b7aa
+4	16	1729778421579003195	/Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	92a7c1922cda5484
+18	227	1729778421593085888	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/ECS/ECS.cpp.o	90c352e3291d06c
+18	627	1729778421593322928	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/Game/Game.cpp.o	916a80b5f5c4b7aa
+18	638	1729778421593454136	CMakeFiles/Engine.dir/Users/konradkurzak/DIRS/GameEngine2D/src/main.cpp.o	66c1283711d0708f
+638	670	1729778422212707635	Engine	d281fdcfde9a20bc
+1	7	1729778425353791323	/Users/konradkurzak/DIRS/GameEngine2D/CMake/cmake-build-debug/CMakeFiles/cmake.verify_globs	92a7c1922cda5484

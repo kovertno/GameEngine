@@ -20,9 +20,6 @@ private:
     bool isRunning;
     int millisecsPrevFrame;
 
-    glm::vec2 playerPosition;
-    glm::vec2 playerVelocity;
-
     int winWidth;  //window parameters
     int winHeight; //
 public:

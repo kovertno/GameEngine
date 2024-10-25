@@ -5,6 +5,48 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="9" type="long" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="RiderCppLiveTemplatesSettings" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Text/@EntryValue" value="/////////////////////////////////////////&#10;// $END$&#10;/////////////////////////////////////////&#10;" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Shortcut/@EntryValue" value="row" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Description/@EntryValue" value="make a space for a comment" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Applicability/=Surround/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=74E586EA91EEBE4CA893A5216F6D2C2A/Type/@EntryValue" value="InCppComment" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=74E586EA91EEBE4CA893A5216F6D2C2A/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/CodeEditing/TypingAssist/Cpp/CloseBlockComment/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=B00B630CDFF6594A940959346BAC420E/Type/@EntryValue" value="InPlaceApplicableForClassDeclaration" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=B00B630CDFF6594A940959346BAC420E/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=49623BCB5944234AAD0552A2908C3C83/Type/@EntryValue" value="InCppNamespace" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=E0014CAC772931458315FE105337975A/Type/@EntryValue" value="InXmlAttribute" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=2F5319C2E16A334DB8431F8560FB5D01/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=4B847A5ED8F7574F925C66209222DF71/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=ABDFB0613102DF4DBB59387506ADA616/Type/@EntryValue" value="InProjectWithReference" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue" value="Everywhere" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=E0014CAC772931458315FE105337975A/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=ABDFB0613102DF4DBB59387506ADA616/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=ABDFB0613102DF4DBB59387506ADA616/CustomProperties/=mask/@EntryIndexedValue" value="" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=2F5319C2E16A334DB8431F8560FB5D01/Type/@EntryValue" value="InXmlTag" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=FB2B1B3627C3074699DE05129AC80274/Type/@EntryValue" value="InCppCompoundStatement" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=CF7C2F2066E462418ABD91975B64021C/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=2BA3EB57D316654FB23BF757F7C2AC89/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=CF7C2F2066E462418ABD91975B64021C/CustomProperties/=mask/@EntryIndexedValue" value="*.*" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=D6711EC08758964D8C84C2B3119B1B6B/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=D6711EC08758964D8C84C2B3119B1B6B/Type/@EntryValue" value="InCppGlobalNamespace" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=EE8D42A0A515A44CA1D24770AB9F8173/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=EE8D42A0A515A44CA1D24770AB9F8173/Type/@EntryValue" value="InPlaceAllowingCppExpression" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=2BA3EB57D316654FB23BF757F7C2AC89/Type/@EntryValue" value="InCppClass" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=FB2B1B3627C3074699DE05129AC80274/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue" value="InXmlFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=CF7C2F2066E462418ABD91975B64021C/Type/@EntryValue" value="InFileWithMask" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=49623BCB5944234AAD0552A2908C3C83/@KeyIndexDefined" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A75A1CDF8E5D342931C2199FF716D55/Scope/=4B847A5ED8F7574F925C66209222DF71/Type/@EntryValue" value="AtLineStart" type="string" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakePythonSetting">

@@ -2,6 +2,7 @@
 #define ECS_H
 
 #include <bitset>
+#include <algorithm>
 
 const unsigned int MAX_COMPONENTS = 32;
 
@@ -53,8 +54,8 @@ public:
     virtual ~System() = default;
     void addEntityToSystem(Entity entity);
     void removeEntityFromSystem(Entity entity);
-    Signature& getComponentSignature() const;
-    std::vector<Entity>& getEntities() const;
+    const Signature& getComponentSignature() const;
+    const std::vector<Entity>& getEntities() const;
 
     //Defines the component type that entities must have to be considered by the system.
     template <typename TComponent> void requireComponent();

@@ -9,7 +9,7 @@ void System::addEntityToSystem(Entity entity) {
 }
 
 void System::removeEntityFromSystem(Entity entity) {
-    entities.erase(std::remove_if(entities.begin(), entities.end(), [&entity](Entity other){return entity.getId() == other.getId();}), entities.end());
+    entities.erase(std::remove_if(entities.begin(), entities.end(), [&entity](Entity other){return entity == other;}), entities.end());
 }
 
 const Signature& System::getComponentSignature() const {
